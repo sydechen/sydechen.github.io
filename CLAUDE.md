@@ -5,8 +5,8 @@ Sydney Chen's portfolio site. Plain static HTML served by GitHub Pages from `mai
 - `index.html` — home
 - `patient-timeline.html`, `predictive-analytics.html` — case studies
 - `images/` — assets
-- `docs/identity-brief.md` — voice and positioning brief
+- `.claude/identity-brief.md` — voice and positioning brief (not served by Pages)
 
 ## Writing copy
 
-Read `docs/identity-brief.md` before drafting or editing any copy on the site. It holds Sydney's positioning, point of view, voice and tone rules, and raw samples of her own writing. "Match my voice brief" means that file.
+Read `.claude/identity-brief.md` before drafting or editing any copy on the site. It holds Sydney's positioning, point of view, voice and tone rules, and raw samples of her own writing. "Match my voice brief" means that file.
